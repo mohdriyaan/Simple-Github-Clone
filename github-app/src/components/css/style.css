@@ -1,0 +1,26 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+.nav{
+    background-color: #333;
+    margin-bottom: 2%;
+    position: sticky;
+}
+
+.box{
+    width: 25vw;
+    height: 60vh;
+    border-radius: 0.5rem;
+    box-shadow: 0 0.2rem 3rem rgba(0,0,0,0.2);
+    background: #a5bbdd;
+    position: relative;
+    overflow: hidden;
+    min-width: 20rem;
+    min-height: 35rem;
+    padding-top: 5%;
+}
+
+
+
